@@ -12,6 +12,6 @@ useful features not offered by standard Markdown).
 
 Documents are filed according to section and order within section.
 
-## Licensing information
+## Licensing
 
 All contents property of Works and Days. Used with permission of the publisher.
