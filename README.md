@@ -12,6 +12,14 @@ useful features not offered by standard Markdown).
 
 Documents are filed according to section and order within section.
 
+## To do
+
+There are still many, many documents to create.
+
+These documents should be inserted into a static site generator that can
+generate HTML from the Markdown. A suitable generator should be found, and
+this repo should be restructured to accommodate its architectural pattern.
+
 ## Licensing
 
 All contents property of Works and Days. Used with permission of the publisher.
