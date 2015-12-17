@@ -9,6 +9,7 @@
     "metalsmith-pandoc": {
       "args": [
         "--filter", "pandoc-citeproc"
+        , "-s"
       ]
     }
   }

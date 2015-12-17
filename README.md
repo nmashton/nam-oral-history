@@ -12,21 +12,25 @@ useful features not offered by standard Markdown).
 
 Documents are filed according to section and order within section.
 
-## How to use
+## Install
 
-Build process still under development.
+Dependencies are handled via `npm`. To install, simply run `npm install`.
 
-To manually compile a file, use [Pandoc](http://pandoc.org), like so:
+## Build
 
-    pandoc --filter pandoc-citeproc src/00/00/cohen.md -f markdown -t html -s -o cohen.html
+The project uses [Metalsmith](http://www.metalsmith.io/) to build HTML.
+
+To build, run `npm run build`.
 
 ## To do
 
 There are still many, many documents to create.
 
-These documents should be inserted into a static site generator that can
-generate HTML from the Markdown. A suitable generator should be found, and
-this repo should be restructured to accommodate its architectural pattern.
+Beyond that, the build process should be improved as appropriate (e.g.)
+fleshed out to generate a proper, functioning site instead of just some raw HTML.
+
+Also, I'm *pretty sure* this is the wrong way to use `metalsmith-pandic` (or its
+underlying `pdc` system). That should be improved upon.
 
 ## Licensing
 
