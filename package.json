@@ -1,0 +1,26 @@
+{
+  "name": "nam-oral-history",
+  "version": "0.0.1",
+  "description": "The Works & Days oral history of the New American Movement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmashton/nam-oral-history.git"
+  },
+  "author": "Neil Ashton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmashton/nam-oral-history/issues"
+  },
+  "homepage": "https://github.com/nmashton/nam-oral-history#readme",
+  "dependencies": {
+    "metalsmith": "^2.1.0",
+    "metalsmith-pandoc": "^0.1.4"
+  },
+  "scripts": {
+    "build": "metalsmith"
+  }
+}
