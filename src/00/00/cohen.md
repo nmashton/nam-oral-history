@@ -90,15 +90,15 @@ Without the dogged support, interest, and patience of David Downing, editor of *
 
 Ed Carvalho and Tracy Lassiter, editorial assistants of *Works and Days*, and Suzanne Walters, a transcriptionist affiliated with the Center for Oral and Public History at California State University, Fullerton, performed the outrageously hard work of bringing many of these interviews to the page. Ed and Tracy were especially patient with this project through its development, and devoted no small part of their time helping this collection take shape.
 
-## Notes
+## References
 
 [^1]: Max Elbaum’s *Revolution in the Air: Sixties Radicals Turn to Lenin, Mao and Che* (London: Verso, 2002) provides an excellent account of these groups’ theoretical as well as practical projects.
 
 [^2]: These numbers come from two sources. According to a 1980 internal survey conducted by Bill Barclay, NAM Political Secretary, “NAM Chapter Membership, July 1980,” NAM could count 1300 members. The second number—2,500—comes from Mike Davis’ “The Lesser Evil? The Left and The Democratic Party,” (*New Left Review* 115 [1986]: 5-36), which references the merger of NAM and DSOC. The variation in these numbers is understandable, given NAM’s membership structure which encouraged active chapter membership but allowed for people to be members without a chapter (“At-Large Members”) and members with a significantly lesser degree of involvement than either of the other two (“Associate Members”).
 
-## Works Cited
-
-...
+---
+nocite: |
+  @barclay1980, @davis1986, @denning1997, @williams1977
 references:
 - id: barclay1980
   title: NAM Chapter Membership, July 1980
@@ -108,7 +108,7 @@ references:
   container-title: Report to New American Movement Membership
   type: article-journal
   issued:
-  - year: 1980
+    year: 1980
     month: July
 - id: davis1986
   title: The Lesser Evil? The Left and the Democratic Party
@@ -120,22 +120,23 @@ references:
   page: 5-36
   type: article-journal
   issued:
-  - year: 1986
+    year: 1986
 - id: denning1997
-  title: The Cultural Front: The Laboring of American Culture in the Twentieth Century
+  title: "The Cultural Front: The Laboring of American Culture in the Twentieth Century"
   author:
   - family: Denning
     given: Michael
   type: book
-  publisher: London, New York: Verso
+  publisher: "London, New York: Verso"
   issued:
-  - year: 1997
+    year: 1997
 - id: williams1977
   title: Marxism and Literature
   author:
   - family: Williams
     given: Raymond
   type: book
-  publisher: Oxford: Oxford UP
+  publisher: "Oxford: Oxford UP"
   issued:
-  - year: 1977
+    year: 1977
+...
