@@ -6,7 +6,7 @@ plaintext.
 
 ## Contents
 
-Each article is encoded as a [Pandoc Markdown](http://rmarkdown.rstudio.com/authoring_pandoc_markdown.html#yaml-metadata-block)
+Each article is encoded as a [Pandoc Markdown](http://rmarkdown.rstudio.com/authoring_pandoc_markdown.html)
 document (to take advantage of Pandoc Markdown's footnotes, citations, and other
 useful features not offered by standard Markdown).
 
