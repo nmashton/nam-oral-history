@@ -1,7 +1,6 @@
 # NAM Oral History
 
-Converting the entirety of the [*Works and Days* oral history of
-the New American Movement](worksanddays.net/W&D 2010.html) to structured
+Converting the entirety of the [*Works and Days* oral history of the New American Movement](http://worksanddays.net/W&D%202010.html) to structured
 plaintext.
 
 ## Contents
